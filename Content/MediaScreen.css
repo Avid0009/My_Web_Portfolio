@@ -1,0 +1,11 @@
+  @media screen and (min-width:600px) {
+    .auto-size-inquiry-type {
+        margin-left: calc(5% + -1.5em);
+    }
+}
+
+@media screen and (min-width: 1920px) {
+    .auto-size-inquiry-type {
+        margin-left: calc(3% + -4.0em);
+    }
+}
